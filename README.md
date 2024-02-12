@@ -4,7 +4,7 @@ This project aims to develop a machine learning algorithm that can accurately de
 # Overview
 YouTube is one of the most popular video-sharing platforms in the world, with millions of videos uploaded and billions of views generated every day. Unfortunately, this popularity has also attracted spammers, who use the platform to post irrelevant or promotional comments that can detract from the overall user experience.
 
-To address this problem, we have developed a machine learning algorithm that can automatically identify and flag spam comments on YouTube videos. The algorithm is based on a combination of Bernoulli's Naive Bayes Algorithm and statistical analysis, and has been trained on a large dataset of labeled comments.
+To address this problem, I developed a machine learning algorithm that can automatically identify and flag spam comments on YouTube videos. The algorithm is based on a combination of Bernoulli's Naive Bayes Algorithm and statistical analysis, and has been trained on a large dataset of labeled comments.
 
 # Dataset
 The dataset used for training and testing the algorithm is a collection of YouTube comments that have been labeled as either 1(spam) or 0(legitimate). The dataset is relatively small with approx 2000 tuples.
