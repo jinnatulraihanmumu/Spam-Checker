@@ -10,7 +10,7 @@ To address this problem, I developed a machine learning algorithm that can autom
 The dataset used for training and testing the algorithm is a collection of YouTube comments that have been labeled as either 1(spam) or 0(legitimate). The dataset is relatively small with approx 2000 tuples.
 
 # Usage
-To use the algorithm, simply run the youtube_spam_detection.py script and provide the path to a CSV file containing the comments you want to analyze.Then the script will run and will ask user to enter a random comment which it will predict whether its a spam or not.
+To use the algorithm, simply run the colab program and provide the path to a CSV file containing the comments you want to analyze.Then the script will run and will ask user to enter a random comment which it will predict whether its a spam or not.
 
 # Conclusion
 Overall, this machine learning algorithm has demonstrated high accuracy in detecting spam comments on YouTube videos. This can help improve the overall user experience and ensure that the platform remains a valuable resource for sharing and discovering new content
